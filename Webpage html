@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title> 'Nati Daddies Fantasy Football </title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	</head>
+	<body style="background-color:lightgray;"> 
+	<h1 style="text-align:center; font-family:verdana;"><i> <u> 'Nati Daddies Fantasy Football 2018 </u> </i> </h1>
+	<p style="text-align:center; font-family:verdana"> Welcome to the official webpage of the 'Nati Daddies! The 'Nati Daddies are a fantasy football team that is managed by world-renowned fantasy football expert, Nate Michaelson. The 'Nati Daddies compete in the Golden Isles Fantasy Football League, which is made up of managers that reside in Brumby Residence Hall at the University of Georgia. This webpage will contain all the information about the 'Nati Daddies that you desire, including their roster, schedule, results, and a biography of their beloved owner, Nate.</p>
+	<h2 style="text-align:center; font-family:verdana;"> Before You Begin </h2>
+	<p style="text-align:center; font-family:verdana"> If you do not know the basics of fantasy football, learn more about it</p><a href="https://en.wikipedia.org/wiki/Fantasy_football_(American)" style="font-family:verdana";>HERE</a>
+	<h2 style="text-align:center; font-family:verdana" > Team Roster </h2> 
+	<h3 style= font-family:verdana" > Quarterbacks </h3> 
+	<ul style="list-style-type:disc"> 
+		<li> #10 Mitchell Trubisky (CHI) </li>
+		<li> #12 Andrew Luck (IND) </li>
+		</ul>
+	<h3 style= font-family:verdana" > Half-Backs </h3> 
+	<ul style="list-style-type:disc"> 
+		
+		<li> #22 Matt Breida (SF) </li>
+		<li> #22 Mark Ingram (NO) </li>
+		<li> #24 Nick Chubb (CLE) </li>
+		<li> #25 Chris Thompson (WAS) </li>
+		<li> #26 Sony Michel (NE) </li>
+		<li> #27 Leonard Fournette (JAX) </li>
+		<li> #32 Kenyan Drake (MIA) </li> 
+	</ul> 
+	<h3 style= font-family:verdana" > Wideouts </h3> 
+	<ul style="list-style-type:disc">
+	
+		<li> #13 Odell Beckham Jr. (NYG) </li>
+		<li> #13 T.Y. Hilton (IND) </li>
+		<li> #15 Chris Hogan (NE) </li>
+		<li> #19 Kenny Golladay (DET) </li> 
+	</ul> 
+	<h3 style= font-family:verdana" > Tight Ends </h3> 
+	<ul style="list-style-type:disc"> 
+	
+		<li> #81 Austin Hooper (ATL) </li>
+	</ul> 
+	
+		<h3 style= font-family:verdana" > Defense/Special Teams </h3> 
+	<ul style="list-style-type:disc"> 
+		
+		<li> Minnesota Vikings (MIN) </li>
+	</ul>
+	
+			<h3 style= font-family:verdana" > Kickers </h3> 
+	<ul style="list-style-type:disc">
+	
+		<li> #9 Graham Gano </li> 
+	</ul>
+	
+	
+	
+	
+	
+	
+	
+	</body>
+		
+</HTML>
