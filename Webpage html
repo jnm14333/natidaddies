@@ -5,11 +5,12 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	</head>
-	<body style="background-color:lightgray;"> 
+	<body style="background-color:beige;"> 
 	<h1 style="text-align:center; font-family:verdana;"><i> <u> 'Nati Daddies Fantasy Football 2018 </u> </i> </h1>
-	<p style="text-align:center; font-family:verdana"> Welcome to the official webpage of the 'Nati Daddies! The 'Nati Daddies are a fantasy football team that is managed by world-renowned fantasy football expert, Nate Michaelson. The 'Nati Daddies compete in the Golden Isles Fantasy Football League, which is made up of managers that reside in Brumby Residence Hall at the University of Georgia. This webpage will contain all the information about the 'Nati Daddies that you desire, including their roster, schedule, results, and a biography of their beloved owner, Nate.</p>
+	<img src="footballhelmet.png" alt="Football Helmet" class="center"style="width:150px;height:150px;">
+	<p style="text-align:center; font-family:verdana"> Welcome to the official web page of the 'Nati Daddies! The 'Nati Daddies are a fantasy football team that is managed by world-renowned fantasy football expert, <mark> Nate Michaelson </mark>. The 'Nati Daddies compete in the Golden Isles Fantasy Football League, which is made up of managers that reside in Brumby Residence Hall at the University of Georgia. This webpage will contain all the information about the 'Nati Daddies that you desire, including their roster, schedule, results, and a biography of their beloved owner, Nate.</p>
 	<h2 style="text-align:center; font-family:verdana;"> Before You Begin </h2>
-	<p style="text-align:center; font-family:verdana"> If you do not know the basics of fantasy football, learn more about it</p><a href="https://en.wikipedia.org/wiki/Fantasy_football_(American)" style="font-family:verdana";>HERE</a>
+	<p style="text-align:center; font-family:verdana"> If you do not know the basics of fantasy football, learn more about it</p><a href="https://en.wikipedia.org/wiki/Fantasy_football_(American)" style="text-align:center;font-family:verdana";>HERE</a>
 	<h2 style="text-align:center; font-family:verdana" > Team Roster </h2> 
 	<h3 style= font-family:verdana" > Quarterbacks </h3> 
 	<ul style="list-style-type:disc"> 
@@ -51,7 +52,35 @@
 	<ul style="list-style-type:disc">
 	
 		<li> #9 Graham Gano </li> 
-	</ul>
+	</ul> 
+<table> 
+  <tr>
+    <th>Week</th>
+    <th>Opponent</th> 
+    <th>Result</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>     The RA</td>
+    <td>103.6-105.8 L</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Team Eck</td>
+    <td>102.3-84.6 W</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Mista Steal Yo Gurley</td>
+    <td>82.8-133.2 L</td>
+  </tr>
+
+  
+  
+  
+  
+  </table>
+
 	
 	
 	
@@ -61,4 +90,4 @@
 	
 	</body>
 		
-</HTML>
+</HTML>>
